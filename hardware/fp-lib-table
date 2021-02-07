@@ -134,4 +134,6 @@
   (lib (name Valve)(type KiCad)(uri ${KISYSMOD}/Valve.pretty)(options "")(descr Valve))
   (lib (name Varistor)(type KiCad)(uri ${KISYSMOD}/Varistor.pretty)(options "")(descr Varistor))
   (lib (name Switch)(type KiCad)(uri ${KIPRJMOD}/footprints/Switch)(options "")(descr ""))
+  (lib (name Logos)(type KiCad)(uri ${KIPRJMOD}/logos)(options "")(descr ""))
+  (lib (name dc_jack)(type KiCad)(uri ${KIPRJMOD}/footprints/dc_jack.pretty)(options "")(descr ""))
 )
