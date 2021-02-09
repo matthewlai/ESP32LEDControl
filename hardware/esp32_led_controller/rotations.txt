@@ -1,0 +1,8 @@
+"Footprint pattern","Correction"
+"^CP_Elec_",180
+"^USB_C_Receptacle_HRO_TYPE-C-31-M-12",180
+"^DC-005C-25A",90
+"^ESP32-WROOM-",270
+"^LED_WS2812",180
+"^SOT-223",0
+"^SOT-23",0
