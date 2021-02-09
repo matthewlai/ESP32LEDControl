@@ -1933,10 +1933,10 @@ Connection ~ 15500 4000
 Wire Wire Line
 	15500 4000 15500 4050
 $Comp
-L Device:Jumper_NO_Small JP?
+L Device:Jumper_NO_Small JP2
 U 1 1 60328712
 P 15000 3800
-F 0 "JP?" V 14954 3848 50  0000 L CNN
+F 0 "JP2" V 14954 3848 50  0000 L CNN
 F 1 "J_NO" V 15050 3850 50  0000 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 15000 3800 50  0001 C CNN
 F 3 "~" H 15000 3800 50  0001 C CNN
@@ -1944,10 +1944,10 @@ F 3 "~" H 15000 3800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP?
+L Device:Jumper_NO_Small JP1
 U 1 1 60329C4C
 P 14500 3800
-F 0 "JP?" V 14454 3848 50  0000 L CNN
+F 0 "JP1" V 14454 3848 50  0000 L CNN
 F 1 "J_NO" V 14550 3850 50  0000 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 14500 3800 50  0001 C CNN
 F 3 "~" H 14500 3800 50  0001 C CNN
@@ -1955,10 +1955,10 @@ F 3 "~" H 14500 3800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP?
+L Device:Jumper_NO_Small JP3
 U 1 1 6032A0A5
 P 15500 3800
-F 0 "JP?" V 15454 3848 50  0000 L CNN
+F 0 "JP3" V 15454 3848 50  0000 L CNN
 F 1 "J_NO" V 15550 3850 50  0000 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 15500 3800 50  0001 C CNN
 F 3 "~" H 15500 3800 50  0001 C CNN
