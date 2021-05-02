@@ -1,0 +1,4 @@
+Docker (Windows): docker run -it -w /kikit -v "<path_to_project>":/kikit yaqwsx/kikit /bin/bash
+pip3 install git+https://github.com/yaqwsx/KiKit@master
+
+kikit panelize --preset panelize_config.json esp32_led_controller.kicad_pcb panel.kicad_pcb

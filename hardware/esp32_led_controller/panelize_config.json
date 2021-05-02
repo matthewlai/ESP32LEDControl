@@ -1,0 +1,37 @@
+{
+    // There can be C-like comments
+    "layout": {
+        "type": "grid",
+        "rows": 5,
+        "cols": 2,
+        "space": "3mm",
+        "rotation": "180deg",
+        "alternation": "cols",
+        "renamenet": "Board_{n}-{orig}",
+        "renameref": "{orig}"
+    },
+    "source": {
+        "type": "auto",
+        "tolerance": "10mm"
+    },
+    "tabs": {
+        "type": "fixed",
+        "hcount": 1,
+        "vcount": 2,
+        "width": "3mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.6mm",
+        "spacing": "0.8mm",
+        "offset": "0.25mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "width": "5mm",
+        "space": "3mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
