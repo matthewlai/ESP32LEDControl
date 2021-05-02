@@ -2,4 +2,5 @@
   (lib (name switches1)(type Legacy)(uri ${KIPRJMOD}/library/switches.lib)(options "")(descr ""))
   (lib (name conn)(type Legacy)(uri ${KIPRJMOD}/library/conn.lib)(options "")(descr ""))
   (lib (name esp32_led_controller-rescue)(type Legacy)(uri ${KIPRJMOD}/esp32_led_controller-rescue.lib)(options "")(descr ""))
+  (lib (name ap2172)(type Legacy)(uri ${KIPRJMOD}/library/ap2172.lib)(options "")(descr ""))
 )
