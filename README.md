@@ -1,4 +1,7 @@
 # ESP32LEDControl
+
+![PCB photo](/doc/board.jpg)
+
 ESP32-based LED controller for WS2812B-compatible LEDs, powered by USB Type-C.
 
 This is the hardware component of Fede Heinz's [Blinkenlights project](https://github.com/fheinz/Blinkenlights).
